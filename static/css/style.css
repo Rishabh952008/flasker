@@ -1,0 +1,12 @@
+h1{
+    color:rgb(20, 46, 56);
+    font-size:60px;
+}
+
+body{
+    background-color: #ababb5 ;
+}
+#demo{
+    font-size: 18px;
+    color-interpolation-filters: inherit;
+}
